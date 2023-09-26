@@ -1,1 +1,5 @@
-https://api.sub.vg/sub?target=clash&url=https%3A%2F%2Fsubscribe.infinitetitan.com%2Flink%2Fy2k1pcu0D1tSPTvF%3Fsub%3D2%7Ctrojan%3A%2F%2F6bc25971-195f-41ff-b574-bade0fb73fb4%40us.fisheep9.top%3A443%3Fpeer%3Dus.fisheep9.top%26sni%3Dus.fisheep9.top%26alpn%3Dhttp%2F1.1%23%E8%87%AA%E5%BB%BAUS-CN2-GIA&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FOliverGrace%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini
+叶碧宇Fisheep:
+https://askubuntu.com/questions/1346617/ubuntu-20-04-does-not-have-mediatek-driver-mt7921-for-wifi-bluetooth
+
+叶碧宇Fisheep:
+https://wireless.wiki.kernel.org/en/users/drivers/mediatek?s%5B%5D=mediatek&s%5B%5D=mt7921
